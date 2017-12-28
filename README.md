@@ -2,7 +2,7 @@
 
 This satifies the following requirements
 
-##Project 1 Details (p1.rb p1-file.txt)
+## Project 1 Details (p1.rb p1-file.txt)
 Create a ruby program that reads a text file that has 5 lines of text. (Create any text you want for each of the 5 lines)
 The program should extract the fourth word from the 3rd line and display to the console
 
